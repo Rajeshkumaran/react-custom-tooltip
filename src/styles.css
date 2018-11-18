@@ -1,0 +1,27 @@
+.tooltip-container{
+  position: relative;
+  height: 30px;
+  width:100px;
+  display:inline-block;
+
+}
+.tooltip-content{
+  position: absolute;
+  background: #231535;
+  color: #fff;
+  padding: 6px;
+  border-radius: 4px;
+  font-size: 11px;
+  text-align: center;
+  width: 100%;
+}
+
+.tooltip-arrow{
+   width: 0.5em;
+    height: 0.5em;
+    background: #231535;
+    position: absolute;
+    bottom: 2px;
+    transform: rotate(-135deg);
+    left: 10px;
+}
