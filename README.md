@@ -1,4 +1,4 @@
-# react-datepicker
+# React-ToolTip
 
 A small react library for creating a customised Tooltip
 
